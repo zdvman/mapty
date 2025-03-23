@@ -40,21 +40,17 @@ It’s ideal for anyone learning advanced JavaScript patterns, frontend architec
 
 ## 📸 Preview
 
-Live preview (you can deploy it using Netlify or GitHub Pages):  
-[https://your-mapty-demo.netlify.app/](https://your-mapty-demo.netlify.app/)
+[https://zdvman-mapty.netlify.app/](https://zdvman-mapty.netlify.app/)
 
 ---
 
 ## 🖼️ Screenshots
 
-![Class structure diagram](https://github.com/user-attachments/assets/image1.png)
-_OOP-based app architecture: `Workout`, `Running`, `Cycling`, and `App` classes_
+![image](https://github.com/user-attachments/assets/6b79c130-434f-4b8e-b7db-3db45ef1e1e8)
 
-![User journey](https://github.com/user-attachments/assets/image2.png)
-_How the user interacts with map, form, and local storage_
+![image](https://github.com/user-attachments/assets/6f0a469b-8a71-4e37-b1e4-c181468f4679)
 
-![UI preview](https://github.com/user-attachments/assets/image3.png)
-_Map, form, and list working together seamlessly_
+![image](https://github.com/user-attachments/assets/c5720deb-850b-403f-8f17-5d9ab8b0bab9)
 
 ---
 
